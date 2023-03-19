@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# ALX INTRANET CLONE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a clone of ALX software engineering learning [platform](https://intranet.alxswe.com/) - Intranet.
 
-## Available Scripts
+## Project description
 
-In the project directory, you can run:
+This project is a replica of the ALX software engineering learning [platform](https://intranet.alxswe.com/).This project aim to contains features such as :
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* My planning - A calendar that contains upcoming events, live meetings, projects e.t.c.
+* Projects - The section that contains the past projects that has been done by the student.
+* QA Reviews - This section is where a student gets to review his / her peers.
+* Evaluation quizzes - Monthly quizzes aimed at testing the student's understanding of the topics covered so far.
+* Curriculums - This contains the curriculum that will be covered or taught throughout the learning period.
+* Concepts - This contain various approach to take to succeed during and after the program.
+* Conference room - This is where a student gets to connect to his peers via video call.
+* Servers - This is where the servers to be used are located.
+* Sandboxes - This is where the sandboxes for projects are.
+* Video on demand - This is a video library that contains  recaps of past events organized for the students.
+* Peers - This is the section where you get to see your peers in the program with the contact details.
+* Captain's Log - This is where students get to log their complains or a brief of how the week and the project went. This is done at the end of every week.
+* Slack - This is a one click slack icon that takes the student to the program slack community.
+* My pofile - This is the student's profile that contails all detials about him or her.
+### Contributors
+This project is open to the public at large to add more features or implement some of the above listed features to it as all the features listed above are not fully implemented yet.
+## Author
+Olowosuyi Temitope Abiodun
+Email: Temitopeabiodun685@gmail.com
